@@ -1,2 +1,3 @@
 # hello_world
-test project to understand Git
+# test project to understand Git
+python test.py
