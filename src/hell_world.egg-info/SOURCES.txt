@@ -1,0 +1,5 @@
+setupy.py
+hell_world.egg-info/PKG-INFO
+hell_world.egg-info/SOURCES.txt
+hell_world.egg-info/dependency_links.txt
+hell_world.egg-info/top_level.txt
